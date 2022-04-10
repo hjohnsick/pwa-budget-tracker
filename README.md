@@ -9,3 +9,5 @@ To run the application, run
 `npm install`
 
 To download the PWA click the download icon.
+
+To view the deployed app visit: [Budget Tracker](https://afternoon-island-67965.herokuapp.com/)
